@@ -1,6 +1,9 @@
 # The Wedding Shop Assignment
 Simple E-commerce website that allows couples to prepare their wedding gift list and guests to purchase the items from the list.
 
+# Demo
+https://wsprezola.herokuapp.com/
+
 # Project Summary
 * The website provides the option for users to create a list or buy a gift. 
 * To create a list, couples can register/login and can create their list.
